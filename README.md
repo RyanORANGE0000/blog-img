@@ -1,2 +1,2 @@
 # blog-img
-collab
+## blog image
